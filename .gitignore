@@ -5,6 +5,7 @@
 Obj/
 [Ll]ogs/
 [Mm]emoryCaptures/
+[Uu]serSettings/
 
 # Visual Studio
 .vscode/
