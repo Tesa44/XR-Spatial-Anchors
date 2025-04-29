@@ -1,0 +1,31 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+Obj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS pliki
+.DS_Store
+*.swp
+*.lock
+*.bak
+*.tmp
+
+# Rider
+.idea/
+*.sln.iml
